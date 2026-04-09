@@ -61,9 +61,7 @@ Requirements:
 You can also opt to download my [copy](https://github.com/Tony607/object_detection_demo/releases/download/V0.1/checkpoint.zip) of those files from the GitHub Release page.
 
 Run the following Jupyter notebook locally and follow the instructions in side.
-```
-deploy/openvino_convert_tf_object_detection.ipynb
-```
+
 ## Run the benchmark
 
 Examples
